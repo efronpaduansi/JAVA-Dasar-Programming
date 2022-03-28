@@ -8,7 +8,6 @@ Ada beberapa materi Java dasar yang dipelajari yaitu:
 - casting
 - Operators
 - Math
-- Dan lain-lain
-Untuk mendapatkan tutorial belajar Java silahkan simak video tutorialnya di YouTube Channel berikut:
-## YouTube Channel : Obrolan IT
+- Dan lain-lain.
+
 
