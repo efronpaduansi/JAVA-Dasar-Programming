@@ -5,10 +5,8 @@
  */
 package javascanner;
 
-/**
- *
- * @author efronpds
- */
+
+
 public class JavaScanner {
 
     /**
